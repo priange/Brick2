@@ -1,3 +1,11 @@
+@media  (min-width: 480px ) and (max-width:700px){
+    #main nav{
+        
+    }
+    
+}
+
+
 .mainnav{
 display: flex;
 margin-left: 20%;
@@ -288,3 +296,11 @@ margin-left:-5%;
 
     margin-left: 5%;
 }
+
+
+
+ 
+   
+
+
+ 
