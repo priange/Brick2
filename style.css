@@ -1,0 +1,290 @@
+.mainnav{
+display: flex;
+margin-left: 20%;
+margin-top: 2%;
+font-size: 5px;
+}
+#England{
+    width: 25px;
+    height: 3px;
+margin-left: 25%;
+
+height: 50px;
+border-radius: 10px;
+
+}
+#page{
+margin-left:30% ;
+font-size: 35px;
+font-style: bold;
+}
+#About{
+    font-size: 22px;
+}
+#Support{
+margin-left: 3%;
+font-size: 22px;
+
+}
+#Shipping{
+margin-left: 3%;
+font-size: 22px;
+
+}
+#Contact{
+margin-left: 3%;
+font-size: 22px;
+
+}
+#Stores{
+margin-left: 3%;
+font-size: 22px;
+
+}
+#catalog{
+    width: 200px;
+    height: 60px;
+border-radius: 20px;
+background-color: yellow;
+margin-left: 30%;
+text-align: center;
+margin-top: -1%;
+}
+
+#set{
+    border-radius: 35px;
+    width: 100px;
+margin-left: 70%;
+margin-top: -11%;
+margin-bottom: -50px;
+}
+.three{
+background-color: yellow;
+
+
+}
+.side{
+border: 3px solid;
+border-color: black;
+width: 150px;
+margin-top: 1%;
+
+}
+#two{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+#star{
+    margin-left: 30%;
+    font-size: 20px;
+    margin-top: -30%;
+}#first{
+    margin-left: 5%;
+}
+#Price{
+    margin-left: 5%;
+}
+#sex{
+    margin-left: 5%;
+}
+#age{
+    margin-left: 5%;
+}
+.All{
+    margin-left: 25%;
+}
+#img1{
+    margin-left: 1%;
+    margin-top: -90%;
+}
+#New{
+    margin-left: 40%;
+    margin-top: -23%;
+}
+#green{
+    width: 100px;
+}
+#robot{
+    width: 100px;
+}
+#Robot{
+    margin-left: 80%;
+    margin-top: -18%;
+}
+#desert{
+width: 100px;
+}
+#giant{
+margin-left: 42%;
+
+margin-top: -21%;
+}
+#G{
+    width: 100px;
+}
+#sky{
+    margin-left: 80%;
+    margin-top: -20%;
+}
+#moon{
+    width: 100px;
+}
+#flight{
+    width: 100px;
+    margin-top: 3%;
+}
+#black{
+    width: 100px;
+
+}
+#mega{
+    margin-left: 40%;
+    margin-top: -21%;
+}
+#red{
+    width: 100px;
+}
+#Red{
+    margin-left: 70%;
+    margin-top: -20%;
+}
+#boxer{
+    width: 100px;
+    margin-top: 3%;
+}
+#motor{
+    width: 100px;
+}
+#Motor{
+    margin-left: 35%;
+    margin-top: -16%;
+}
+#war{
+    width: 100px;
+}
+#War{
+    margin-left: 80%;
+    margin-top: -22%;
+}
+#skyer{
+    width: 100px;
+    
+}
+#ready{
+width: 100px;
+}
+#Ready{
+margin-left: 35%;
+margin-top: -20%;
+}
+#motor2{
+    width: 100px;
+
+}
+#Motor2{
+margin-left: 70%;
+margin-top: -22%;
+}
+#these{
+display: flex;
+margin-left: 20%;
+justify-content: space-between;
+}
+#first1{
+border-radius: 15px;
+width:30px;
+padding: 5px 5px;
+background-color: yellow;
+text-align:center ;
+}
+#second{
+    border-radius: 15px;
+width:30px;
+padding: 5px 5px;
+background-color: yellow;
+text-align:center ;
+margin-left:-5%;
+}
+#third{
+    border-radius: 15px;
+    width:30px;
+    padding: 5px 5px;
+    background-color: yellow;
+    text-align:center ;
+    margin-left:-5%;
+}
+#fourth{
+    border-radius: 15px;
+width:30px;
+padding: 5px 5px;
+background-color: yellow;
+text-align:center ;
+margin-left:-5%;
+}
+#fifth{
+    border-radius: 15px;
+width:30px;
+padding: 5px 5px;
+background-color: yellow;
+text-align:center ;
+margin-left:-5%;
+}
+#twelve{
+    border-radius: 15px;
+width:30px;
+padding: 5px 5px;
+background-color: yellow;
+text-align:center ;
+margin-left:-5%;
+}
+.more{
+    border-radius: 15px;
+width:30px;
+padding: 5px 5px;
+background-color: yellow;
+text-align:center ;
+margin-left:-5%;
+/* margin-top: 10%; */
+}
+#more{
+    margin-left: 50%;
+    border-radius: 5px;
+    background-color: yellow;
+    font-size: 20px;
+/* margin-top: 10%; */
+
+
+}
+#dot{
+    margin-left: -5%;
+}
+.footer{
+    display: flex;
+}
+#Company{
+    font-size: 20px;
+}
+#Help{
+    font-size: 20px;
+    margin-left: 3%;
+}
+#We{
+    font-size: 20px;
+    margin-left: 3%;
+}
+#Social{
+    font-size: 20px;
+    margin-left: 3%;
+
+}
+#BrickHouse{
+    font-size: 20px;
+    margin-left: 3%;
+
+
+}
+#Lego{
+
+    margin-left: 5%;
+}
