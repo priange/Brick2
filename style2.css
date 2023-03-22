@@ -1,0 +1,177 @@
+.nav{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+.second{
+    display: flex;
+    list-style-type: none;
+    margin-top: 5%;
+}
+#star{
+    margin-left: 2%;
+    margin-top: 5%;
+}
+#catalog{
+    margin-left: 100px;
+}
+#layer1{
+    margin-left: 70%;
+    margin-top: 3%;
+}
+#pdt1{
+    width: 400px;
+    height: 400px;
+margin-left: 20%;
+
+}
+#P1{
+    margin-left: 70%;
+    margin-top: -30%;
+}
+
+/* #bag{
+    /* margin-left: 70%; */
+    /* border-radius: 10px;
+    width: 20px;
+    height: 15px;
+    margin-left: 5%; */
+    /* margin-top: 15%; */
+    /* display: flex; */ */
+/* } */
+#all3{
+    margin-left: 70%;
+margin-top: -50%;
+} 
+.see{ 
+color: purple;
+margin-left: 75%;
+margin-top: -50%;
+
+}
+#free{
+color: blueviolet;
+margin-left: 75%;
+}
+#delivery{
+    color: blueviolet;
+    margin-left: 75%;
+} 
+.bag{
+    margin-top: 30%;
+border-radius: 10px;
+background-color: yellow;
+width: 90px;
+padding: 10px 10px;
+}
+#videos{
+    margin-left: 25%;
+}
+
+.oneside{
+margin-left: 70%;
+}
+#layer1{
+    display: flex;
+}
+.top3{
+    display: flex;
+    /* justify-content: space-between; */
+}
+#pdt2{
+    width: 200px;
+    height: 200px;
+margin-top: 10%;
+/* margin-left: 30%; */
+}
+#pdt3{
+    width: 200px;
+    height: 200px;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#pdt4{
+    width: 200px;
+    height: 200px;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+#pdt5{
+    width: 100px;
+    height: 100px;
+    /* margin-top: 10%; */
+}
+#pdt6{
+    width: 100px;
+    height: 100px;
+    margin-left: 5%;
+}
+#pdt7{
+    width: 100px;
+    height: 100px;
+    margin-left: 5%;
+}
+#pdt8{
+    width: 100px;
+    height: 100px;
+    margin-left: 5%;
+}
+.setlast{
+    margin-top: 5%;
+    margin-left: 10%;
+    display: flex;
+}
+.footer{
+    display: flex;
+}
+.help{
+    margin-left: 5%;
+}
+.contact{
+    margin-left: 5%;
+}
+.works{
+    margin-left: 5%;
+}
+.socials{
+    margin-left: 5%;
+}
+.House{
+    margin-left: -70%;
+    display: flex;
+    margin-top: 20%;
+}
+#policy{
+    margin-left: 25%;
+    /* display: flex; */
+    /* margin-top: -1%; */
+}
+#cookies{
+    margin-left: 5%;
+    
+}
+#copy{
+    margin-left: 5%;
+}
+#Bhouse{
+    font-size: 25px;
+}
+/* #lastlayer{
+    margin-top: 1%;
+} */
+#pd1{
+    margin-top: 10%;
+    margin-left: -20%;
+}
+#pd2{
+    margin-left: 25%;
+    margin-top: -15%;
+}
+#pd3{
+    margin-left: 50%;
+    margin-top: -15%;
+}
+#pd4{
+    margin-left: 70%;
+    margin-top: -15%;
+}
