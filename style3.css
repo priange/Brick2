@@ -1,0 +1,214 @@
+body{
+    background-color: rgb(221, 206, 236);
+    border: solid 4px;
+    border-color: rgb(233, 223, 223);
+    border-radius: 10px;
+position: absolute;
+}
+#Brick{
+    margin-left: 3%;
+}
+#search{
+    border-radius: 5px;
+    width: 90px;
+}
+
+#page{
+    margin-left: 25%;
+}
+
+.nav1{
+    list-style-type: none;
+    display: grid;
+}
+#About{
+margin-left: 5%;
+}
+#Support{
+    margin-left: 13%;
+    margin-top: -1.5%;
+}
+#Shipping{
+    margin-left: 20%;
+    margin-top: -1.5%;
+}
+#Contact{
+    margin-left: 33%;
+    margin-top: -1.5%;
+
+}
+#Stores{
+margin-left: 43%;
+margin-top: -1.5%;
+}
+#flag{
+    width: 50px;
+    height: 50px;
+margin-left: 80%;
+}
+.nav2{
+    display:flex;
+    justify-content: space-between;
+    background-color: yellow;
+}
+.images{
+    display: grid;
+}
+#star1{
+    width: 250px;
+    height: 250px;
+
+}
+#star2{
+width: 250px;
+height: 250px;
+}
+#star3{
+    width: 250px;
+    height: 250px;  
+}
+#star4{
+    width: 250px;
+    height: 350px;
+    margin-top: -8%;
+}
+#star5{
+    width: 250px;
+    height: 250px;
+}
+#star6{
+    width: 250px;
+    height: 300px;
+}
+#star7{
+    width: 250px;
+height: 250px;
+}
+.side{
+    margin-left: 50%;
+    width: 300px;
+    height: 300px;
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: grey;
+    margin-top: -80%;
+}
+.Interested{
+    margin-top: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+#save{
+    border: solid 1px green;
+    border-radius: 2px;
+    color: green;
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 10%;
+}
+#orders{
+    background-color: yellow;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 45px;
+    margin-top: 15%;
+    /* align-items: center; */
+    
+}
+/* #H3{ */
+    /* margin-top: -2%; */
+    /* margin-bottom: -20%;
+     margin-left: 10%; */
+    /* margin-top: -2px; */
+    /* display: flex; 
+    text-align: center; */
+    /* width: 200px; */
+/* } */
+#interests{
+    margin-left: 10%;
+    /* display: ; */
+}
+.footer{
+    background-color: purple;
+    color: white;
+    justify-content: space-between;
+    height: 500px;
+}
+#we{
+    list-style: none;
+    margin-left: 60%;
+    margin-top: -7%;
+}
+#Contacts{
+    list-style: none;
+    margin-left: 40%;
+    margin-top: -18%;
+}
+#Help{
+    list-style: none;
+    margin-left: 20%;
+    margin-top: -19%;
+}
+#Company{
+    list-style: none;
+    
+}
+#Socials{
+    margin-left: 80%;
+    margin-top: -24%;
+}
+#pay{
+    margin-left: 80%;
+
+}
+.last{
+    list-style: none;
+    display: flex;
+    margin-top: 35%;
+    
+}
+.all{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 10%;
+    justify-content: ;
+    
+}
+/* #policy{
+margin-left: 10%;
+}
+#cookies{
+    margin-left: 10%;
+}
+#copy{
+    margin-left: 10%;
+} */ 
+/* #cookies{
+margin-left: 5%;
+}
+#copy{
+    margin-left: 5%;
+} */
+@media only screen and (max-width: 600px) {
+    body {
+      /* background-color: rgb(85, 158, 182); */
+        background-color: rgb(221, 206, 236);
+        border: solid 4px;
+        border-color: rgb(233, 223, 223);
+        border-radius: 10px;
+        display: grid;
+        position: absolute;
+    }
+    @media only screen and (min-width: 460px) {
+        .Interested{
+            margin-top: 60%;
+            display: grid;
+            justify-content: space-between;
+            position: absolute;
+        }
+  }
+}
+
+
